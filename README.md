@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Psyduck's github stats](https://github-readme-stats.vercel.app/api?username=c13h12n4o2&show_icons=true&theme=cobalt&hide=contribs,prs)
+
+
 <!--
 **C13H12N4O2/c13h12n4o2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
